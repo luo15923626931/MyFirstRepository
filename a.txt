@@ -1,2 +1,1 @@
-This is letter a.
-This is letter b.
+This is a txt file.
